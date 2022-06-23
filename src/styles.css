@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=KoHo:400,700");
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+body {
+  background: linear-gradient(to right bottom, #4fff9c, #4d91d1, #4a48f4);
+  font-family: "KoHo", sans-serif;
+  color: white;
+  padding: 24px 12px;
+}
+
+h2,
+p {
+  margin: 0 0 12px;
+}
+
+.refel {
+  padding: 10px;
+  color: white;
+  border: 1px solid lightgray;
+}
